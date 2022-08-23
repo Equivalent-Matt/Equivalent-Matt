@@ -1,4 +1,6 @@
-## About me
+[![My Banner](https://cdn.discords.com/user_banners/939581336107249664.png?v=1661209214)
+
+# About me
 Hello there, my name is Matt. I'm an italian Programmer & Designer.
 
 Co-Founder @ Crypton Entertainment
