@@ -1,4 +1,4 @@
-[![My Banner](https://cdn.discords.com/user_banners/939581336107249664.png?v=1661209214)
+[![My Banner](https://media.discordapp.net/attachments/939585209731526687/1011409312524013668/MattBanner.png?width=1440&height=480)
 
 # About me
 Hello there, my name is Matt. I'm an italian Programmer & Designer.
