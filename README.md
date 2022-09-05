@@ -5,5 +5,7 @@
     Hello there, my name is Matt. I'm an italian Programmer & Designer.<br>
     <img src="https://github-readme-stats.vercel.app/api/?username=XenonMatt&count_private=true&show_icons=true&disable_animations=false&theme=dark" title="My stats"><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XenonMatt&langs_count=10&layout=compact&theme=dark" title="My top languages">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"><br>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"><br>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"><br>
 </div>
