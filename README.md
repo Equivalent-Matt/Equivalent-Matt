@@ -12,5 +12,5 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=vscode,py,js,nodejs,electron,lua,go,flask,figma,cs,express,netlify,mongodb,discord,bots,qt,git,github,cloudflare,html,css&perline=7" width=""/></p>
 &nbsp;
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=xetarion&bg_color=0C0C0C&title_color=ffffff&text_color=ffffff&icon_color=1975D6&hide_border=true&show_icons=true&locale=en&layout=compact" alt="xetarion" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=xetarion&bg_color=0C0C0C&title_color=ffffff&text_color=ffffff&icon_color=1975D6&hide_border=true&show_icons=true&locale=en" alt="xetarion" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Xetarion&count_private=true&show_owner=true&show_icons=true&bg_color=0C0C0C&title_color=ffffff&text_color=ffffff&icon_color=1975D6&hide_border=true" alt="xetarion" /></p>
