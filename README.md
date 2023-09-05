@@ -9,7 +9,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 &nbsp;
-<p align="center"><img src="https://skillicons.dev/icons?i=vscode,py,js,nodejs,electron,lua,go,flask,figma,cs,express,netlify,mongodb,discord,bots,,qt,git,github,cloudflare,html,css&perline=7" width=""/></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=vscode,py,js,nodejs,electron,lua,go,flask,figma,cs,express,netlify,mongodb,discord,bots,qt,git,github,cloudflare,html,css&perline=7" width=""/></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xetarion&show_icons=true&locale=en&layout=compact&theme=dark" alt="xetarion" /></p>
 
